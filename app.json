@@ -1,0 +1,6 @@
+{
+  "name": "Nest analytics",
+  "description": "Write Nest and outside weather statistics to librato",
+  "repository": "https://github.com/rrooding/nest-analytics",
+  "keywords": ["nest"]
+}
